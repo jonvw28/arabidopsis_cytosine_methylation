@@ -11,12 +11,15 @@ if(!require("dplyr")){
         install.packages("dplyr")
 }
 library(dplyr)
+#
 if(!require("GenomicRanges")){
-        install.packages("GenomicRanges")
+        source("https://bioconductor.org/biocLite.R")
+        biocLite("GenomicRanges")
 }
 library(GenomicRanges)
 if(!require("rtracklayer")){
-        install.packages("rtracklayer")
+        source("https://bioconductor.org/biocLite.R")
+        biocLite("rtracklayer")
 }
 library(rtracklayer)
 if(!require("stringr")){
