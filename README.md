@@ -51,7 +51,7 @@ I would like to thank Dr Marco Catoni of the Sainsbury laboratory for giving me 
 
 I would also like to thank Hajk Drost for his constant advice and input in helping me to find direction for this project. 
 
-astly I would like to thank Professor Jerzy Paskowski and the rest of the Paszkowski group for their useful feedback and support, and for being a very helpful practice audience for describing this research to biologists.
+Lastly I would like to thank Professor Jerzy Paskowski and the rest of the Paszkowski group for their useful feedback and support, and for being a very helpful practice audience for describing this research to biologists.
 
 ## Reference Information
 
