@@ -47,7 +47,7 @@ In addition to the table outputs, the scripts to run the models put forward in t
 
 ## Acknowledgements
 
-I would like to thank Dr Marco Catoni of the Sainsbury laboratory for giving me the idea this project is basedf upon and for his support through out.
+I would like to thank Dr Marco Catoni of the Sainsbury laboratory for giving me the idea this project is based upon and for his support through out.
 
 I would also like to thank Hajk Drost for his constant advice and input in helping me to find direction for this project. 
 
